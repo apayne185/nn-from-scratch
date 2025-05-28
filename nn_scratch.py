@@ -146,3 +146,5 @@ test_prediction(3, W1, b1, W2, b2)
 test_prediction(4, W1, b1, W2, b2)
 test_prediction(5, W1, b1, W2, b2)
 
+#the pictures will pop up in an external browser 
+
